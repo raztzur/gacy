@@ -1,5 +1,11 @@
-body {
-  background-color: #FAF7ED;
+html, body {
+	padding-top: 2em;
+	text-align: right;
+	width: 100%;
+	margin: 54px auto;
+	background-color: #EEEEEE;
+
+}
 
  .container {
     display: grid;
