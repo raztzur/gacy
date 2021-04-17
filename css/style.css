@@ -1,6 +1,10 @@
 body {
   background-color: #FAF7ED;
 
+grid-template-columns: 12px 12px 12px;
+grid-template-rows: 12px 12px 12px;
+
+
 @font-face{
 font-family: "Columbia-Light";
 src: url("fonts/Columbia-Titling-Light.otf");format("opentype"),
@@ -20,7 +24,7 @@ src: url("fonts/Columbia-Titling-Light.otf");format("opentype"),
 
 
 h1 {
-font-family: 'Columbia-Light', sans-serif;
+font-family: 'Columbia', sans-serif;
 font-weight:normal;
 font-style:normal;
 }
