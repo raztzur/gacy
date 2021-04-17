@@ -1,9 +1,9 @@
 body {
   background-color: #FAF7ED;
 
-@font-face {
+@font-face{
 font-family: "Columbia-Light";
-src: url("/fonts/Columbia-Titling-Light.otf");format("opentype"),
+src: url("fonts/Columbia-Titling-Light.otf");format("opentype"),
 }
 
 }
