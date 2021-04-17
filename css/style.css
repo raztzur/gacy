@@ -1,6 +1,11 @@
 body {
   background-color: #FAF7ED;
 
+@font-face {
+font-family: "Columbia-Light";
+src: url("/fonts/Columbia-Titling-Light.otf");format("opentype"),
+}
+
 }
 m1 {
 	font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-300) var(--unnamed-font-size-20)/var(--unnamed-line-spacing-28) var(--unnamed-font-family-attribute-text);
