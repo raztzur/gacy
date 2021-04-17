@@ -1,70 +1,156 @@
-@font-face {
-    font-family: "Abraham";
-    font-weight: regular;
-    src: url("../fonts/AbrahamTRIAL-Regular.otf") format("opentype");
+:root {
+
+/* Colors: */
+--unnamed-color-2b2e34: #2B2E34;
+--unnamed-color-06060b: #06060B;
+--unnamed-color-f9f6ed: #F9F6ED;
+
+/* Font/text values */
+--unnamed-font-family-columbia-titling: Columbia Titling;
+--unnamed-font-family-attribute-text: Attribute Text;
+--unnamed-font-family-impact: Impact;
+--unnamed-font-style-normal: normal;
+--unnamed-font-weight-300: 300px;
+--unnamed-font-weight-normal: normal;
+--unnamed-font-size-16: 16px;
+--unnamed-font-size-20: 20px;
+--unnamed-font-size-21: 21px;
+--unnamed-font-size-33: 33px;
+--unnamed-font-size-34: 34px;
+--unnamed-font-size-44: 44px;
+--unnamed-font-size-45: 45px;
+--unnamed-font-size-89: 89px;
+--unnamed-font-size-105: 105px;
+--unnamed-character-spacing-0: 0px;
+--unnamed-character-spacing-1-78: 1.78px;
+--unnamed-character-spacing--0-89: -0.89px;
+--unnamed-line-spacing-22: 22px;
+--unnamed-line-spacing-24: 24px;
+--unnamed-line-spacing-28: 28px;
+--unnamed-line-spacing-29: 29px;
+--unnamed-line-spacing-41: 41px;
+--unnamed-line-spacing-42: 42px;
+--unnamed-line-spacing-55: 55px;
+--unnamed-line-spacing-56: 56px;
+--unnamed-line-spacing-111: 111px;
+--unnamed-line-spacing-131: 131px;
 }
 
-.pointer {cursor: default;}
-
-div {
-    cursor:default;
-} 
-
-.hover {
-  pointer-events: none;
-  transform: translate(-170px, -15px);
-  position: absolute;
+/* Character Styles */
+.unnamed-character-style-1 {
+font-family: var(--unnamed-font-family-columbia-titling);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-300);
+font-size: var(--unnamed-font-size-105);
+line-height: var(--unnamed-line-spacing-131);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-2b2e34);
 }
-
-.meimg {
-  max-width: 400px;
-  max-height: 400px;
-  display: none;
+.unnamed-character-style-2 {
+font-family: var(--unnamed-font-family-columbia-titling);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-34);
+line-height: var(--unnamed-line-spacing-42);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-2b2e34);
 }
-
-.melink:hover+.meimg {
-  display: block;
+.unnamed-character-style-3 {
+font-family: var(--unnamed-font-family-columbia-titling);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-33);
+line-height: var(--unnamed-line-spacing-41);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-2b2e34);
 }
-
-.beatles:hover+.meimg {
-  display: block;
+.unnamed-character-style-4 {
+font-family: var(--unnamed-font-family-attribute-text);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-300);
+font-size: var(--unnamed-font-size-20);
+line-height: var(--unnamed-line-spacing-28);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-06060b);
 }
-
-html, body {
-	padding-top: 2em;
-	text-align: right;
-	width: 95%;
-	margin: 0 auto;
-	background-color: #EEEEEE;
-
+.unnamed-character-style-5 {
+font-family: var(--unnamed-font-family-impact);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-20);
+line-height: var(--unnamed-line-spacing-24);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-2b2e34);
 }
-
-u {
-  text-decoration: underline;
-  color: green;
+.unnamed-character-style-6 {
+font-family: var(--unnamed-font-family-attribute-text);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-21);
+line-height: var(--unnamed-line-spacing-29);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-2b2e34);
 }
-
-* {
-  box-sizing: border-box;
+.unnamed-character-style-7 {
+font-family: var(--unnamed-font-family-attribute-text);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-20);
+line-height: var(--unnamed-line-spacing-28);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-2b2e34);
 }
-
-.box {
-  float: left;
-  width: 50%;
-  padding: 25px;
-  font-size: 20px;
-  font-family: 'Abraham';
+.unnamed-character-style-8 {
+font-family: var(--unnamed-font-family-attribute-text);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-16);
+line-height: var(--unnamed-line-spacing-22);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-2b2e34);
 }
-
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
+.columbia-titling-—-45pt {
+font-family: var(--unnamed-font-family-columbia-titling);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-44);
+line-height: var(--unnamed-line-spacing-55);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-2b2e34);
 }
-
-::selection {
-  background: #00E022; /* WebKit/Blink Browsers */
+.unnamed-character-style-9 {
+font-family: var(--unnamed-font-family-columbia-titling);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-45);
+line-height: var(--unnamed-line-spacing-56);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-2b2e34);
 }
-::-moz-selection {
-  background: #00E022; /* Gecko Browsers */
+.unnamed-character-style-10 {
+font-family: var(--unnamed-font-family-columbia-titling);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-300);
+font-size: var(--unnamed-font-size-89);
+line-height: var(--unnamed-line-spacing-111);
+letter-spacing: var(--unnamed-character-spacing-1-78);
+color: var(--unnamed-color-2b2e34);
+}
+.unnamed-character-style-11 {
+font-family: var(--unnamed-font-family-columbia-titling);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-300);
+font-size: var(--unnamed-font-size-89);
+line-height: var(--unnamed-line-spacing-111);
+letter-spacing: var(--unnamed-character-spacing--0-89);
+color: var(--unnamed-color-2b2e34);
+}
+.unnamed-character-style-12 {
+font-family: var(--unnamed-font-family-columbia-titling);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-300);
+font-size: var(--unnamed-font-size-89);
+line-height: var(--unnamed-line-spacing-111);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-2b2e34);
 }
