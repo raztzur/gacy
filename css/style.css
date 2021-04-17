@@ -29,7 +29,7 @@ src: url("fonts/Columbia-Titling-Light.otf");format("opentype"),
 
 h1 {
 font-family: 'Columbia', sans-serif;
-font-weight:normal;
+font-weight: light;
 font-style:normal;
 }
 
