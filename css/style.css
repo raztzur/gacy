@@ -6,14 +6,22 @@ font-family: "Columbia-Light";
 src: url("fonts/Columbia-Titling-Light.otf");format("opentype"),
 }
 
+@font-face {
+    font-family: "Columbia";
+    font-weight: light;
+    src: url("../Columbia-Titling-Light.otf.otf") format("opentype");
 }
-m1 {
-	font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-300) var(--unnamed-font-size-20)/var(--unnamed-line-spacing-28) var(--unnamed-font-family-attribute-text);
-letter-spacing: var(--unnamed-character-spacing-0);
-color: var(--unnamed-color-06060b);
-text-align: left;
-font: normal normal 300 20px/28px Attribute Text;
-letter-spacing: 0px;
-color: #06060B;
-opacity: 1;
+
+@font-face {
+    font-family: "Columbia";
+    font-weight: normal;
+    src: url("../Columbia-Titling-Regular.otf.otf") format("opentype");
 }
+
+
+h1 {
+font-family: 'Columbia-Light', sans-serif;
+font-weight:normal;
+font-style:normal;
+}
+
