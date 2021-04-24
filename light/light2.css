@@ -28,27 +28,12 @@
         }
         
         @font-face {
-          font-family: attributetext_light;
-          src: url(assets/ff-attribute-light.otf);
-        }
-        
-        @font-face {
           font-family: columbiatitling_standard;
           src: url(assets/Columbia-Titling-Regular.otf);
         }
         
-        @font-face {
-          font-family: attributetext_bold;
-          src: url(assets/ff-attribute-bold.otf);
-        }
-        
-        @font-face {
-          font-family: columbiatitling_medium;
-          src: url(assets/Columbia-Titling-Medium.otf);
-        }
-        
 
-      .light {
+      .light2 {
 
       display: block;
       position: absolute;
@@ -80,7 +65,7 @@
 
 }
 
-.light .a5 {
+.light2 .a5 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -108,7 +93,7 @@
 
 }
 
-.light .a4 {
+.light2 .a4 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -136,7 +121,7 @@
 
 }
 
-.light .x01earlylife {
+.light2 .x01earlylife {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -177,7 +162,7 @@
 
 }
 
-.light .x03sociallife {
+.light2 .x03sociallife {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -213,12 +198,12 @@
       white-space: pre;
       width: 422.00px;
     height: 283.00px;
-    left: 74.04px;
+    left: 102.00px;
     top: 6773.00px;
 
 }
 
-.light .x02careerfamily {
+.light2 .x02careerfamily {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -254,12 +239,12 @@
       white-space: pre;
       width: 525.00px;
     height: 283.00px;
-    left: 438.00px;
+    left: 318.00px;
     top: 3494.37px;
 
 }
 
-.light .a2 {
+.light2 .a2 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -287,7 +272,7 @@
 
 }
 
-.light .gacyWithHisSecondWifeCaroleHoff {
+.light2 .gacyWithHisSecondWifeCaroleHoff {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -311,7 +296,7 @@
       letter-spacing: 0.00px;
       color: rgba(0, 0, 0, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 16.00px;
+      font-size: 15.00px;
       font-weight: 400;
     font-style: normal;
       font-family: attributetext_regular, Arial;
@@ -320,14 +305,14 @@
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 321.00px;
-    height: 22.00px;
+      width: 301.00px;
+    height: 21.00px;
     left: 318.00px;
-    top: 4661.50px;
+    top: 4662.50px;
 
 }
 
-.light .by1978PdmsAnnualRevenueWasOver200000 {
+.light2 .by1978PdmsAnnualRevenueWasOver200000 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -351,7 +336,7 @@
       letter-spacing: 0.00px;
       color: rgba(0, 0, 0, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 16.00px;
+      font-size: 15.00px;
       font-weight: 400;
     font-style: normal;
       font-family: attributetext_regular, Arial;
@@ -360,14 +345,14 @@
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 401.00px;
-    height: 44.00px;
+      width: 376.00px;
+    height: 42.00px;
     left: 54.00px;
-    top: 5591.71px;
+    top: 5592.71px;
 
 }
 
-.light .xGacysFormerEmployee {
+.light2 .xGacysFormerEmployee {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -381,7 +366,7 @@
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
-      margin-left: -103px;
+      margin-left: -96px;
       padding-top: 0.00px;
       padding-right: 0.00px;
       padding-bottom: 0.00px;
@@ -391,7 +376,7 @@
       letter-spacing: 0.00px;
       color: rgba(0, 0, 0, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 16.00px;
+      font-size: 15.00px;
       font-weight: 400;
     font-style: normal;
       font-family: attributetext_regular, Arial;
@@ -400,14 +385,14 @@
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 206.00px;
-    height: 22.00px;
+      width: 192.00px;
+    height: 21.00px;
     left: 50%;
-    top: 6324.00px;
+    top: 6325.00px;
 
 }
 
-.light .gacyWithRosalynnCarterPresidentCartersWife {
+.light2 .gacyWithRosalynnCarterPresidentCartersWife {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -431,7 +416,7 @@
       letter-spacing: 0.00px;
       color: rgba(0, 0, 0, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 16.00px;
+      font-size: 15.00px;
       font-weight: 400;
     font-style: normal;
       font-family: attributetext_regular, Arial;
@@ -440,14 +425,14 @@
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 417.00px;
-    height: 22.00px;
-    top: 7382.00px;
-    right: 91.26px;
+      width: 391.00px;
+    height: 21.00px;
+    top: 7383.00px;
+    right: 117.26px;
 
 }
 
-.light .johnWayneGacyAsATeenagerWithHisDogInHisChildhoodHouse {
+.light2 .johnWayneGacyAsATeenagerWithHisDogInHisChildhoodHouse {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -471,7 +456,7 @@
       letter-spacing: 0.00px;
       color: rgba(0, 0, 0, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 16.00px;
+      font-size: 15.00px;
       font-weight: 400;
     font-style: normal;
       font-family: attributetext_regular, Arial;
@@ -480,14 +465,14 @@
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 550.00px;
-    height: 22.00px;
+      width: 515.00px;
+    height: 21.00px;
     left: 510.00px;
-    top: 2290.75px;
+    top: 2291.75px;
 
 }
 
-.light .a6 {
+.light2 .a6 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -535,7 +520,7 @@
 
 }
 
-.light .a1 {
+.light2 .a1 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -563,7 +548,7 @@
 
 }
 
-.light .careerfamily {
+.light2 .careerfamily {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -588,9 +573,9 @@
       color: rgba(0, 0, 0, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
       font-size: 15.00px;
-      font-weight: 300;
+      font-weight: 400;
     font-style: normal;
-      font-family: attributetext_light, Arial;
+      font-family: attributetext_regular, Arial;
       text-decoration: none;
       box-shadow: none;
       overflow-x: unset;
@@ -599,11 +584,11 @@
       width: 105.00px;
     height: 21.00px;
     left: 50%;
-    top: 30.26px;
+    top: 28.26px;
 
 }
 
-.light .socialLife {
+.light2 .socialLife {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -628,9 +613,9 @@
       color: rgba(0, 0, 0, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
       font-size: 15.00px;
-      font-weight: 300;
+      font-weight: 400;
     font-style: normal;
-      font-family: attributetext_light, Arial;
+      font-family: attributetext_regular, Arial;
       text-decoration: none;
       box-shadow: none;
       overflow-x: unset;
@@ -638,12 +623,12 @@
       white-space: pre;
       width: 84.00px;
     height: 21.00px;
-    top: 30.26px;
+    top: 28.26px;
     right: 582.00px;
 
 }
 
-.light .earlyLife {
+.light2 .earlyLife {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -668,9 +653,9 @@
       color: rgba(0, 0, 0, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
       font-size: 15.00px;
-      font-weight: 300;
+      font-weight: 400;
     font-style: normal;
-      font-family: attributetext_light, Arial;
+      font-family: attributetext_regular, Arial;
       text-decoration: none;
       box-shadow: none;
       overflow-x: unset;
@@ -679,11 +664,11 @@
       width: 74.00px;
     height: 21.00px;
     left: 582.00px;
-    top: 30.26px;
+    top: 28.26px;
 
 }
 
-.light .x1703194210051994 {
+.light2 .x1703194210051994 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -719,11 +704,11 @@
       width: 270.00px;
     height: 82.00px;
     top: 383.24px;
-    right: 265.00px;
+    right: 237.00px;
 
 }
 
-.light .theStoryOf {
+.light2 .theStoryOf {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -763,7 +748,7 @@
 
 }
 
-.light .johnWayneGacy {
+.light2 .johnWayneGacy {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -777,7 +762,7 @@
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
-      margin-left: 0.00px;
+      margin-left: -643.5px;
       padding-top: 0.00px;
       padding-right: 0.00px;
       padding-bottom: 0.00px;
@@ -798,12 +783,12 @@
       white-space: pre;
       width: 1287.00px;
     height: 119.00px;
-    left: 183.00px;
+    left: 50%;
     top: 699.81px;
 
 }
 
-.light .johnWayneGacyWasBornInChicagoOnMarch171942TheSecondChildAndOnlySonOfJohnStanleyGacyAndMarionElaineRobisonHisFatherWasAnAutoRepairMachinistAndWorldWarIVeteranAndHisMotherWasAHomemakerGacyWasOfPolishAndD {
+.light2 .johnWayneGacyWasBornInChicagoOnMarch171942TheSecondChildAndOnlySonOfJohnStanleyGacyAndMarionElaineRobisonHisFatherWasAnAutoRepairMachinistAndWorldWarIVeteranAndHisMotherWasAHomemakerGacyWasOfPolishAndDa {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -828,41 +813,22 @@
       color: rgba(0, 0, 0, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
       font-size: 18.00px;
-      font-weight: 700;
+      font-weight: 400;
     font-style: normal;
-      font-family: attributetext_bold, Arial;
+      font-family: attributetext_regular, Arial;
       text-decoration: none;
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
+      white-space: pre;
       width: 984.00px;
-    height: 375.00px;
+    height: 325.00px;
     top: 1098.00px;
     right: 186.00px;
 
 }
 
-.light .johnWayneGacyWasBornInChicagoOnMarch171942TheSecondChildAndOnlySonOfJohnStanleyGacyAndMarionElaineRobisonHisFatherWasAnAutoRepairMachinistAndWorldWarIVeteranAndHisMotherWasAHomemakerGacyWasOfPolishAndD .johnWayneGacyWasBornInChicagoOnMarch171942TheSecondChildAndOnlySonOfJohnStanleyGacyAndMarionElaineRobisonHisFatherWasAnAutoRepairMachinistAndWorldWarIVeteranAndHisMotherWasAHomemakerGacyWasOfPolishAndD-0 {
-    color: rgba(0, 0, 0, 1);
-    font-weight: 400;
-    font-style: normal;
-    font-size: 18.00px;
-    font-family: attributetext_regular, Arial;
-    letter-spacing: 0;
-    text-decoration: none;
-}
-
-.light .johnWayneGacyWasBornInChicagoOnMarch171942TheSecondChildAndOnlySonOfJohnStanleyGacyAndMarionElaineRobisonHisFatherWasAnAutoRepairMachinistAndWorldWarIVeteranAndHisMotherWasAHomemakerGacyWasOfPolishAndD .johnWayneGacyWasBornInChicagoOnMarch171942TheSecondChildAndOnlySonOfJohnStanleyGacyAndMarionElaineRobisonHisFatherWasAnAutoRepairMachinistAndWorldWarIVeteranAndHisMotherWasAHomemakerGacyWasOfPolishAndD-1100 {
-    color: rgba(0, 0, 0, 1);
-    font-weight: 700;
-    font-style: normal;
-    font-size: 18.00px;
-    font-family: attributetext_bold, Arial;
-    letter-spacing: 0;
-    text-decoration: none;
-}
-
-.light .gacyWasWellRespectedInHisCommunityAndActiveInLocalPoliticsHisNeighborsKnewHimAsJohnnyClaimHimToBeAVeryGoodAndSocialNeighborHeHadBigPartiesEveryYearAtHisHouseAndInvitedTheNeighborsAndEmployeesgacyEntered {
+.light2 .gacyWasWellRespectedInHisCommunityAndActiveInLocalPoliticsHisNeighborsKnewHimAsJohnnyClaimHimToBeAVeryGoodAndSocialNeighborHeHadBigPartiesEveryYearAtHisHouseAndInvitedTheNeighborsAndEmployeesgacyEntered {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -901,7 +867,7 @@
 
 }
 
-.light .gacyWasMarriedAndDivorcedTwiceAndHadTwoBiologicalChildrenInAdditionToTwoStepdaughtersafterGraduatingFromBusinessCollegeGacyStartedWorkingIn1960AsAFastFoodChainManagerAtHisFirstWifesFathersBusinessTheKfcWate {
+.light2 .whileWorkingAsSalesmanAtTheNunnBushShoeCompanyHeMetMarlynnMyersAfterASixMonthCourtshipGacyAndMyersGotMarriedTheyHad2DaughtersAndGotDivorcedIn1969InAugust1971HeBecameEngagedToCaroleHoffADivorceeWithTwoYo {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -933,14 +899,15 @@
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
-      width: 523.00px;
+      white-space: pre;
+      width: 719.00px;
     height: 300.00px;
     top: 3488.00px;
-    right: 97.00px;
+    right: 54.00px;
 
 }
 
-.light .heWasADecentBossHedLikeToJokeAroundHeHadTheAuraOfBeingJovialAndJokingAroundAndSeemedToNotTakeThingsTooSeriously {
+.light2 .heWasADecentBossHedLikeToJokeAroundHeHadTheAuraOfBeingJovialAndJokingAroundAndSeemedToNotTakeThingsTooSeriously {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -972,6 +939,7 @@
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
+      white-space: pre;
       width: 912.00px;
     height: 300.00px;
     left: 50%;
@@ -979,7 +947,7 @@
 
 }
 
-.light .gacyDiedUnderTragicCircumstancesOnMay101994 {
+.light2 .gacyDiedUnderTragicCircumstancesOnMay101994 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1004,13 +972,14 @@
       color: rgba(0, 0, 0, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
       font-size: 45.00px;
-      font-weight: 500;
+      font-weight: 400;
     font-style: normal;
-      font-family: columbiatitling_medium, Arial;
+      font-family: columbiatitling_standard, Arial;
       text-decoration: none;
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
+      white-space: pre;
       width: 1204.00px;
     height: 112.00px;
     left: 206.00px;
@@ -1018,7 +987,7 @@
 
 }
 
-.light .group {
+.light2 .group {
 
       display: block;
       position: absolute;
@@ -1049,7 +1018,7 @@
 
 }
 
-.light .group .johnWayneGacyAndHisJay {
+.light2 .group .johnWayneGacyAndHisJay {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1090,74 +1059,7 @@
 
 }
 
-
-.light .group33 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      background-image: url("assets/group33.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: -786.0000610351562px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 1572.00px;
-    height: 656.90px;
-    left: 50%;
-    top: 2548.50px;
-
-}
-
-.light .group33 .group32 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 1572.00px;
-    height: 660.28px;
-    left: 0.00px;
-    top: -0.98px;
-
-}
-
-.light .group33 .group32 .rectangle18 {
+.light2 .group .ceeGroup {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1166,10 +1068,6 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/rectangle18.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
       opacity: 1;
       cursor: default;
       margin-top: 0.00px;
@@ -1181,63 +1079,28 @@
       padding-bottom: 0.00px;
       padding-left: 0.00px;
       background-color: rgba(255, 255, 255, 0);
-      border-bottom-color: rgba(0, 0, 0, 0);
-      border-bottom-style: solid;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(0, 0, 0, 0);
-      border-left-style: solid;
-      border-left-width: 1.00px;
-      border-right-color: rgba(0, 0, 0, 0);
-      border-right-style: solid;
-      border-right-width: 1.00px;
-      border-top-color: rgba(0, 0, 0, 0);
-      border-top-style: solid;
-      border-top-width: 1.00px;
-      border-top-left-radius: 0.00px;
-      border-top-right-radius: 0.00px;
-      border-bottom-left-radius: 0.00px;
-      border-bottom-right-radius: 0.00px;
+      text-align: left;
+      letter-spacing: 0.00px;
+      color: rgba(43, 46, 52, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: attributetext_regular, Arial;
+      text-decoration: none;
       box-shadow: none;
-      width: auto;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 79.00px;
     height: auto;
-    left: -0.50px;
-    top: -0.50px;
-    right: 1.50px;
-    bottom: 1.50px;
-
-}
-
-.light .group33 .path26 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      fill: transparent;
-      box-shadow: none;
-      width: auto;
-    height: auto;
-    left: 0.00px;
     top: 0.00px;
     right: 0.00px;
     bottom: 0.00px;
 
 }
 
-.light .group51 {
+.light2 .group51 {
 
       display: block;
       position: absolute;
@@ -1272,7 +1135,7 @@
 
 }
 
-.light .group51 .group50 {
+.light2 .group51 .group50 {
 
       display: block;
       position: absolute;
@@ -1303,7 +1166,7 @@
 
 }
 
-.light .group51 .group50 .group49 {
+.light2 .group51 .group50 .group49 {
 
       display: block;
       position: absolute;
@@ -1340,7 +1203,7 @@
 
 }
 
-.light .group51 .group50 .group49 .rectangle26 {
+.light2 .group51 .group50 .group49 .rectangle26 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1390,7 +1253,7 @@
 
 }
 
-.light .group51 .group50 .group49 .rectangle27 {
+.light2 .group51 .group50 .group49 .rectangle27 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1436,7 +1299,7 @@
 
 }
 
-.light .group51 .path32 {
+.light2 .group51 .path32 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1466,7 +1329,7 @@
 
 }
 
-.light .johnWayneGacyHomeOnWestSummerdale {
+.light2 .johnWayneGacyHomeOnWestSummerdale {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1490,7 +1353,7 @@
       letter-spacing: 0.00px;
       color: rgba(0, 0, 0, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 16.00px;
+      font-size: 15.00px;
       font-weight: 400;
     font-style: normal;
       font-family: attributetext_regular, Arial;
@@ -1499,14 +1362,14 @@
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 354.00px;
-    height: 22.00px;
+      width: 332.00px;
+    height: 21.00px;
     left: 54.00px;
-    top: 8213.00px;
+    top: 8214.00px;
 
 }
 
-.light .group54 {
+.light2 .group54 {
 
       display: block;
       position: absolute;
@@ -1541,7 +1404,7 @@
 
 }
 
-.light .group54 .group53 {
+.light2 .group54 .group53 {
 
       display: block;
       position: absolute;
@@ -1572,7 +1435,7 @@
 
 }
 
-.light .group54 .group53 .group52 {
+.light2 .group54 .group53 .group52 {
 
       display: block;
       position: absolute;
@@ -1609,7 +1472,7 @@
 
 }
 
-.light .group54 .group53 .group52 .rectangle28 {
+.light2 .group54 .group53 .group52 .rectangle28 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1659,7 +1522,7 @@
 
 }
 
-.light .group54 .group53 .group52 .rectangle29 {
+.light2 .group54 .group53 .group52 .rectangle29 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1705,7 +1568,7 @@
 
 }
 
-.light .group54 .path34 {
+.light2 .group54 .path34 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1735,7 +1598,7 @@
 
 }
 
-.light .oneOfGacysHouseParties {
+.light2 .oneOfGacysHouseParties {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1759,7 +1622,7 @@
       letter-spacing: 0.00px;
       color: rgba(0, 0, 0, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 16.00px;
+      font-size: 15.00px;
       font-weight: 400;
     font-style: normal;
       font-family: attributetext_regular, Arial;
@@ -1768,10 +1631,140 @@
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 229.00px;
-    height: 22.00px;
+      width: 214.00px;
+    height: 21.00px;
     left: 450.00px;
-    top: 8995.00px;
+    top: 8996.00px;
+
+}
+
+.light2 .maskGroup1 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/maskGroup1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: -786px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1572.00px;
+    height: 659.00px;
+    left: 50%;
+    top: 2547.00px;
+
+}
+
+.light2 .maskGroup1 .a3 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/a3.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: auto;
+    height: 929.00px;
+    left: 0.00px;
+    top: -26.00px;
+    right: 0.00px;
+
+}
+
+.light2 .maskGroup1 .rectangle31 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: auto;
+    height: auto;
+    left: 0.00px;
+    top: 0.00px;
+    right: 0.00px;
+    bottom: 0.00px;
 
 }
 
