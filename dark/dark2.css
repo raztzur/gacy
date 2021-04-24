@@ -57,6 +57,28 @@
           src: url(assets/Pistilli-Roman.otf);
         }
         
+        a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #A5262C;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+#early_signs {
+    padding-top: 400px;
+    margin-top: -400px;
+}
 
       .dark2 {
 
