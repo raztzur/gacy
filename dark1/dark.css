@@ -1,0 +1,2795 @@
+
+
+      html {
+        height: 100%;
+        width: 100%;
+      }
+
+      body {
+        font-family: 'Open Sans', serif;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        -webkit-font-smoothing: antialiased;
+        overflow: -moz-scrollbars-none;
+        -ms-overflow-style: none;
+      }
+
+      
+        @font-face {
+          font-family: zangezisans09trial_regular;
+          src: url(assets/ZangeziSans09_TRIAL-Regular.otf);
+        }
+        
+        @font-face {
+          font-family: swearbannerdemo_boldcilati;
+          src: url(assets/SwearBannerDemo-BoldCilati.otf);
+        }
+        
+        @font-face {
+          font-family: zangezisans09trial_black;
+          src: url(assets/ZangeziSans09_TRIAL-Black.otf);
+        }
+        
+        @font-face {
+          font-family: zangezisans09trial_text;
+          src: url(assets/ZangeziSans09_TRIAL-Text.otf);
+        }
+        
+        @font-face {
+          font-family: zangezisans09trial_italic;
+          src: url(assets/ZangeziSans09_TRIAL-Italic.otf);
+        }
+        
+        @font-face {
+          font-family: levitblended_boldmono;
+          src: url(assets/Levit_Blended-BoldMono.otf);
+        }
+        
+        @font-face {
+          font-family: levitblended_bold;
+          src: url(assets/Levit_Blended-Bold.otf);
+        }
+        
+        @font-face {
+          font-family: pistilli_regular;
+          src: url(assets/Pistilli-Roman.otf);
+        }
+        
+
+      .dark {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: rgba(21, 21, 21, 1);
+      width: auto;
+    height: 9900.00px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+
+}
+
+.dark .group25 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/group25.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: -258px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 516.00px;
+    height: 753.81px;
+    left: 50%;
+    top: 76.00px;
+
+}
+
+.dark .group25 .group24 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 554.83px;
+    height: 757.02px;
+    left: -19.17px;
+    top: -3.36px;
+
+}
+
+.dark .group25 .group24 .group23 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/group23.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 554.83px;
+    height: 757.02px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.dark .group25 .group24 .group23 .rectangle14 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/rectangle14.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(0, 0, 0, 0);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(0, 0, 0, 0);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(0, 0, 0, 0);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(0, 0, 0, 0);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 553.83px;
+    height: 756.02px;
+    left: -0.50px;
+    top: -0.50px;
+
+}
+
+.dark .group25 .group24 .group23 .rectangle15 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(0, 0, 0, 0);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(0, 0, 0, 0);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(0, 0, 0, 0);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(0, 0, 0, 0);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 553.83px;
+    height: 756.02px;
+    left: -0.50px;
+    top: -0.50px;
+
+}
+
+.dark .group25 .path16 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      box-shadow: none;
+      width: 516.00px;
+    height: 753.81px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.dark .earlySigns {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 90.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 88.00px;
+    height: 15.00px;
+    left: 582.00px;
+    top: -5.50px;
+
+}
+
+.dark .captureprey {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: -54px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 90.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 108.00px;
+    height: 16.00px;
+    left: 50%;
+    top: -6.50px;
+
+}
+
+.dark .victimsDeath {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 90.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 109.00px;
+    height: 15.00px;
+    top: -5.50px;
+    right: 582.00px;
+
+}
+
+.dark .path22 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      stroke: rgba(112, 112, 112, 1);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 2.00px;
+    height: 2.00px;
+    left: 1138.50px;
+    top: 55.50px;
+
+}
+
+.dark .group {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 289.00px;
+    height: 249.00px;
+    left: 153.00px;
+    top: 1162.15px;
+
+}
+
+.dark .group .earlysigns {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 85.00px;
+      letter-spacing: -0.50px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: unset;
+      font-size: 100.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: swearbannerdemo_boldcilati, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 289.00px;
+    height: 249.00px;
+    left: 0.00px;
+    top: 23.50px;
+
+}
+
+.dark .group57 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 92.00px;
+    height: 102.00px;
+    left: 153.00px;
+    top: 1086.15px;
+
+}
+
+.dark .group57 .x01 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 100.00px;
+      letter-spacing: 0.00px;
+      color: transparent;
+      -webkit-text-stroke: 1.00px rgba(255, 255, 255, 1);
+      font-size: 85.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: zangezisans09trial_black, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: auto;
+    height: auto;
+    left: 0.00px;
+    top: 1.00px;
+    right: 0.00px;
+    bottom: -1.00px;
+
+}
+
+.dark .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 25.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 18.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_text, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 851.00px;
+    height: 378.00px;
+    top: 1100.50px;
+    right: 318.00px;
+
+}
+
+.dark .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably-0 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably-168 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_italic, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably-175 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably-177 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_italic, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably-189 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably-200 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_italic, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably-224 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably-532 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_italic, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably-605 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably-889 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_black, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably .gacyEnduredADifficultRelationshipWithHisFatherAnAlcoholicWhoWasPhysicallyAbusiveToHisWifeAndChildrenHisFatherBelittledHimCallingHimNamesAsSissyMamasBoyWhoWouldProbablyGrowUpQueerAndComparingHimUnfavorably-895 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .group56 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: -786px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1572.00px;
+    height: 658.76px;
+    left: 50%;
+    top: 2547.00px;
+
+}
+
+.dark .group56 .group35 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1572.00px;
+    height: 658.76px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.dark .group56 .group35 .group34 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/group34.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1572.00px;
+    height: 658.76px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.dark .group56 .group35 .group34 .rectangle19 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/rectangle19.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(0, 0, 0, 0);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(0, 0, 0, 0);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(0, 0, 0, 0);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(0, 0, 0, 0);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 1571.00px;
+    height: 657.76px;
+    left: -0.50px;
+    top: -0.50px;
+
+}
+
+.dark .group56 .group35 .group34 .rectangle20 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(0, 0, 0, 0);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(0, 0, 0, 0);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(0, 0, 0, 0);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(0, 0, 0, 0);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 1571.00px;
+    height: 657.76px;
+    left: -0.50px;
+    top: -0.50px;
+
+}
+
+.dark .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 25.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 18.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_text, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: auto;
+      overflow-y: auto;
+      width: 780.00px;
+    height: 311.00px;
+    top: 3488.50px;
+    right: 54.00px;
+
+}
+
+.dark .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries-0 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_regular, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries-1 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries-29 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_italic, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries-43 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries-96 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_black, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries-103 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries-106 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_black, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries-114 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries-135 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_black, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries-144 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries-500 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_italic, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries .afterMovingToChicagoTheKillerClownBeganHisKillingSpreeHeWouldCaptureHisPreyTortureSodomizeThemAndEventuallyStrangledMostOfHisVictimsWithHisHandsOrWithRopegacyWouldDriveAroundTownAndLuredHisVictimsInVaries-517 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .johnWayneGacyAsPogoTheClown {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 24.00px;
+      letter-spacing: 0.60px;
+      color: rgba(242, 242, 242, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_text, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 306.00px;
+    height: 16.00px;
+    left: 318.00px;
+    top: 4659.50px;
+
+}
+
+.dark .johnWayneGacyAsPogoTheClown .johnWayneGacyAsPogoTheClown-0 {
+    color: rgba(242, 242, 242, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0.6;
+    text-decoration: none;
+}
+
+.dark .johnWayneGacyAsPogoTheClown .johnWayneGacyAsPogoTheClown-19 {
+    color: rgba(242, 242, 242, 1);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 15.00px;
+    font-family: zangezisans09trial_italic, Arial;
+    letter-spacing: 0.6;
+    text-decoration: none;
+}
+
+.dark .johnWayneGacyAsPogoTheClown .johnWayneGacyAsPogoTheClown-35 {
+    color: rgba(242, 242, 242, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0.6;
+    text-decoration: none;
+}
+
+.dark .youngJohnWayneGacyAtHisChildhoodHomeBackyard {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 24.00px;
+      letter-spacing: 0.60px;
+      color: rgba(242, 242, 242, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_text, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 418.00px;
+    height: 15.00px;
+    left: 510.00px;
+    top: 2288.50px;
+
+}
+
+.dark .gacyAndOtherWaterlooJayceesWereAlsoDeeplyInvolvedInWifeSwappingProstitutionPornographyAndDrugUse {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 24.00px;
+      letter-spacing: 0.60px;
+      color: rgba(242, 242, 242, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_text, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 866.00px;
+    height: 15.00px;
+    left: 54.00px;
+    top: 3213.50px;
+
+}
+
+.dark .group42 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: -472.015625px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 944.03px;
+    height: 679.39px;
+    left: 50%;
+    top: 5801.97px;
+
+}
+
+.dark .group42 .group41 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/group41.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 944.03px;
+    height: 679.39px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.dark .group42 .group41 .group40 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 944.03px;
+    height: 682.21px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.dark .group42 .group41 .group40 .rectangle22 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/rectangle22.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(0, 0, 0, 0);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(0, 0, 0, 0);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(0, 0, 0, 0);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(0, 0, 0, 0);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 943.03px;
+    height: 681.21px;
+    left: -0.50px;
+    top: -0.50px;
+
+}
+
+.dark .group42 .group41 .path29 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      box-shadow: none;
+      width: 944.03px;
+    height: 679.39px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.dark .gacyPossessionUsedToSubdueHisVictims {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 24.00px;
+      letter-spacing: 0.60px;
+      color: rgba(242, 242, 242, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_text, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 326.00px;
+    height: 15.00px;
+    left: 368.00px;
+    top: 6489.50px;
+
+}
+
+.dark .remainsOfOneOfTheBodiesThatWasDiscoveredUnderGacysBasement {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 24.00px;
+      letter-spacing: 0.60px;
+      color: rgba(242, 242, 242, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_text, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 425.31px;
+    height: 58.00px;
+    top: 7379.50px;
+    right: 82.95px;
+
+}
+
+.dark .amongOtherLuringTechniquesGacyWouldOfferHisVictimsJobsOpportunityAtHisConstructionCompanyPdmThisMethodWasAppliedSuccessfullySeveralTimesBeforeHisLastVictim15YearOldRobertPiestrobertWasReportedMissingToThePolice {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 25.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 18.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_text, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 464.00px;
+    height: 543.00px;
+    top: 6762.50px;
+    right: 582.00px;
+
+}
+
+.dark .amongOtherLuringTechniquesGacyWouldOfferHisVictimsJobsOpportunityAtHisConstructionCompanyPdmThisMethodWasAppliedSuccessfullySeveralTimesBeforeHisLastVictim15YearOldRobertPiestrobertWasReportedMissingToThePolice .amongOtherLuringTechniquesGacyWouldOfferHisVictimsJobsOpportunityAtHisConstructionCompanyPdmThisMethodWasAppliedSuccessfullySeveralTimesBeforeHisLastVictim15YearOldRobertPiestrobertWasReportedMissingToThePolice-0 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .amongOtherLuringTechniquesGacyWouldOfferHisVictimsJobsOpportunityAtHisConstructionCompanyPdmThisMethodWasAppliedSuccessfullySeveralTimesBeforeHisLastVictim15YearOldRobertPiestrobertWasReportedMissingToThePolice .amongOtherLuringTechniquesGacyWouldOfferHisVictimsJobsOpportunityAtHisConstructionCompanyPdmThisMethodWasAppliedSuccessfullySeveralTimesBeforeHisLastVictim15YearOldRobertPiestrobertWasReportedMissingToThePolice-105 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_italic, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .amongOtherLuringTechniquesGacyWouldOfferHisVictimsJobsOpportunityAtHisConstructionCompanyPdmThisMethodWasAppliedSuccessfullySeveralTimesBeforeHisLastVictim15YearOldRobertPiestrobertWasReportedMissingToThePolice .amongOtherLuringTechniquesGacyWouldOfferHisVictimsJobsOpportunityAtHisConstructionCompanyPdmThisMethodWasAppliedSuccessfullySeveralTimesBeforeHisLastVictim15YearOldRobertPiestrobertWasReportedMissingToThePolice-111 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .amongOtherLuringTechniquesGacyWouldOfferHisVictimsJobsOpportunityAtHisConstructionCompanyPdmThisMethodWasAppliedSuccessfullySeveralTimesBeforeHisLastVictim15YearOldRobertPiestrobertWasReportedMissingToThePolice .amongOtherLuringTechniquesGacyWouldOfferHisVictimsJobsOpportunityAtHisConstructionCompanyPdmThisMethodWasAppliedSuccessfullySeveralTimesBeforeHisLastVictim15YearOldRobertPiestrobertWasReportedMissingToThePolice-577 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_black, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .amongOtherLuringTechniquesGacyWouldOfferHisVictimsJobsOpportunityAtHisConstructionCompanyPdmThisMethodWasAppliedSuccessfullySeveralTimesBeforeHisLastVictim15YearOldRobertPiestrobertWasReportedMissingToThePolice .amongOtherLuringTechniquesGacyWouldOfferHisVictimsJobsOpportunityAtHisConstructionCompanyPdmThisMethodWasAppliedSuccessfullySeveralTimesBeforeHisLastVictim15YearOldRobertPiestrobertWasReportedMissingToThePolice-579 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.00px;
+    font-family: zangezisans09trial_text, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .policeSearchingJohnWayneGacyHouse {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 24.00px;
+      letter-spacing: 0.60px;
+      color: rgba(242, 242, 242, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_text, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 303.00px;
+    height: 15.00px;
+    left: 54.00px;
+    top: 8202.88px;
+
+}
+
+.dark .group55 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1176.00px;
+    height: 492.94px;
+    top: 8497.00px;
+    right: 54.00px;
+
+}
+
+.dark .group55 .rectangle30 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/rectangle30.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(0, 0, 0, 0);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(0, 0, 0, 0);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(0, 0, 0, 0);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(0, 0, 0, 0);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 1175.00px;
+    height: 491.94px;
+    left: -0.50px;
+    top: -0.50px;
+
+}
+
+.dark .photosOfTheIdentifiedVictims {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 24.00px;
+      letter-spacing: 0.60px;
+      color: rgba(242, 242, 242, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_text, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 237.00px;
+    height: 15.00px;
+    left: 450.00px;
+    top: 8997.44px;
+
+}
+
+.dark .johnWaynegacy {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 60.00px;
+      letter-spacing: 0.00px;
+      color: rgba(165, 38, 44, 1);
+      -webkit-text-stroke: unset;
+      font-size: 50.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 673.00px;
+    height: 501.00px;
+    top: 306.54px;
+    right: -25.50px;
+
+}
+
+.dark .killerClown {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: -658px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 130.00px;
+      letter-spacing: 0.00px;
+      color: rgba(165, 38, 44, 1);
+      -webkit-text-stroke: unset;
+      font-size: 170.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: levitblended_boldmono, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 1316.00px;
+    height: 118.40px;
+    left: 50%;
+    top: 692.54px;
+
+}
+
+.dark .killerClown .killerClown-0 {
+    color: rgba(165, 38, 44, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 170.00px;
+    font-family: levitblended_boldmono, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .killerClown .killerClown-6 {
+    color: rgba(165, 38, 44, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 170.00px;
+    font-family: levitblended_bold, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .killerClown .killerClown-7 {
+    color: rgba(165, 38, 44, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 170.00px;
+    font-family: levitblended_boldmono, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.dark .theStoryof {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 60.00px;
+      letter-spacing: 0.00px;
+      color: rgba(165, 38, 44, 1);
+      -webkit-text-stroke: unset;
+      font-size: 50.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 673.00px;
+    height: 319.00px;
+    left: -22.00px;
+    top: 366.54px;
+
+}
+
+.dark .the {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 80.00px;
+      letter-spacing: 0.00px;
+      color: rgba(165, 38, 44, 1);
+      -webkit-text-stroke: unset;
+      font-size: 80.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: levitblended_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 185.50px;
+    height: 70.00px;
+    left: 431.00px;
+    top: 617.54px;
+
+}
+
+.dark .group58 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 433.00px;
+    height: 217.00px;
+    left: 318.00px;
+    top: 3551.15px;
+
+}
+
+.dark .group58 .capturePrey {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 85.00px;
+      letter-spacing: -0.50px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: unset;
+      font-size: 100.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: swearbannerdemo_boldcilati, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: auto;
+    left: 0.00px;
+    top: 23.50px;
+    right: 0.00px;
+    bottom: -23.50px;
+
+}
+
+.dark .group58 .capturePrey .capturePrey-0 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 100.00px;
+    font-family: swearbannerdemo_boldcilati, Arial;
+    letter-spacing: -0.5;
+    text-decoration: none;
+}
+
+.dark .group58 .capturePrey .capturePrey-8 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80.00px;
+    font-family: pistilli_regular, Arial;
+    letter-spacing: -0.4;
+    text-decoration: none;
+}
+
+.dark .group58 .capturePrey .capturePrey-9 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 100.00px;
+    font-family: swearbannerdemo_boldcilati, Arial;
+    letter-spacing: -0.5;
+    text-decoration: none;
+}
+
+.dark .group59 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 108.00px;
+    height: 102.00px;
+    left: 318.00px;
+    top: 3475.15px;
+
+}
+
+.dark .group59 .x02 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 100.00px;
+      letter-spacing: 0.00px;
+      color: transparent;
+      -webkit-text-stroke: 1.00px rgba(255, 255, 255, 1);
+      font-size: 85.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: zangezisans09trial_black, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: auto;
+    height: auto;
+    left: 0.00px;
+    top: 1.00px;
+    right: 0.00px;
+    bottom: -1.00px;
+
+}
+
+.dark .afterDeathGacyUsuallyStoredTheVictimsBodiesUnderHisBedUpTo24HoursBeforeBuryingHisVictimInTheCrawlSpaceWhereHePeriodicallyPouredQuicklimeToHasTenTheDecompositionOfHisVictims {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 60.00px;
+      letter-spacing: 0.00px;
+      color: rgba(165, 38, 44, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 40.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 1026.00px;
+    height: 307.00px;
+    left: 195.00px;
+    top: 5103.00px;
+
+}
+
+.dark .gacyWasExecutedByLethalInjectionAtStatevilleCorrectionalCenterOnMay101994 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: -513px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 60.00px;
+      letter-spacing: 0.00px;
+      color: rgba(165, 38, 44, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 40.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: zangezisans09trial_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 1026.00px;
+    height: 157.00px;
+    left: 50%;
+    top: 9392.00px;
+
+}
+
+.dark .screenShot20210410At195108 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 0);
+      box-shadow: none;
+      width: 1116.00px;
+    height: 659.01px;
+    top: 1622.00px;
+    right: 54.00px;
+
+}
+
+.dark .untitled1Copy {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 0);
+      box-shadow: none;
+      width: 1308.00px;
+    height: 686.11px;
+    top: 3965.00px;
+    right: 54.00px;
+
+}
+
+.dark .group60 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 425.00px;
+    height: 249.00px;
+    left: 186.00px;
+    top: 6832.15px;
+
+}
+
+.dark .group60 .victimsdeath {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 85.00px;
+      letter-spacing: -0.50px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: unset;
+      font-size: 100.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: swearbannerdemo_boldcilati, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: auto;
+    left: 0.00px;
+    top: 23.50px;
+    right: 0.00px;
+    bottom: -23.50px;
+
+}
+
+.dark .group61 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 108.00px;
+    height: 102.00px;
+    left: 186.00px;
+    top: 6756.15px;
+
+}
+
+.dark .group61 .x03 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 100.00px;
+      letter-spacing: 0.00px;
+      color: transparent;
+      -webkit-text-stroke: 1.00px rgba(255, 255, 255, 1);
+      font-size: 85.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: zangezisans09trial_black, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: auto;
+    height: auto;
+    left: 0.00px;
+    top: 1.00px;
+    right: 0.00px;
+    bottom: -1.00px;
+
+}
+
+.dark .group64 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/group64.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1243.63px;
+    height: 513.56px;
+    left: 54.00px;
+    top: 7686.00px;
+
+}
+
+.dark .group64 .group63 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: auto;
+    height: 516.72px;
+    left: 0.00px;
+    top: 0.00px;
+    right: -0.01px;
+
+}
+
+.dark .group64 .group63 .group62 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/group62.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: auto;
+    height: auto;
+    left: 0.00px;
+    top: 0.00px;
+    right: -0.01px;
+    bottom: 0.00px;
+
+}
+
+.dark .group64 .group63 .group62 .policeAtTheHomeOfSerialKillerJohnWayneGacyInUnincorporatedNorwoodParkTownshipDailyHeraldFilePhoto {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/policeAtTheHomeOfSerialKillerJohnWayneGacyInUnincorporatedNorwoodParkTownshipDailyHeraldFilePhoto.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(0, 0, 0, 0);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(0, 0, 0, 0);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(0, 0, 0, 0);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(0, 0, 0, 0);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 1253.63px;
+    height: auto;
+    left: -0.50px;
+    top: -0.50px;
+    bottom: 1.50px;
+
+}
+
+.dark .group64 .group63 .group62 .rectangle33 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(0, 0, 0, 0);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(0, 0, 0, 0);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(0, 0, 0, 0);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(0, 0, 0, 0);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: auto;
+    height: auto;
+    left: -0.50px;
+    top: -0.50px;
+    right: 1.49px;
+    bottom: 1.50px;
+
+}
+
+.dark .group64 .path35 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      box-shadow: none;
+      width: auto;
+    height: auto;
+    left: 0.00px;
+    top: 0.00px;
+    right: -0.01px;
+    bottom: -0.00px;
+
+}
+
+.dark .group66 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/group66.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 454.26px;
+    height: 605.67px;
+    top: 6766.00px;
+    right: 54.00px;
+
+}
+
+.dark .group66 .group65 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(90.25deg);
+    -webkit-transform: rotate(90.25deg);
+    transform: rotate(90.25deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 609.84px;
+    height: 459.98px;
+    top: 72.83px;
+    right: -77.75px;
+
+}
+
+.dark .group66 .group65 .rectangle34 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/rectangle34.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(0, 0, 0, 0);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(0, 0, 0, 0);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(0, 0, 0, 0);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(0, 0, 0, 0);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: auto;
+    height: auto;
+    left: -0.50px;
+    top: -0.50px;
+    right: 1.50px;
+    bottom: 1.50px;
+
+}
+
+.dark .group66 .path36 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      box-shadow: none;
+      width: auto;
+    height: auto;
+    left: 0.00px;
+    top: 0.00px;
+    right: -0.00px;
+    bottom: -0.00px;
+
+}
+

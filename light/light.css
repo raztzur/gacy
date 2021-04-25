@@ -19,7 +19,7 @@
       
         @font-face {
           font-family: columbiatitling_light;
-          src: url(assets/Columbia-Titling-Light.otf);
+          src: url(assets/Columbia%20Titling%20Light%20[TheFontsMaster.com].otf);
         }
         
         @font-face {
@@ -29,7 +29,7 @@
         
         @font-face {
           font-family: columbiatitling_standard;
-          src: url(assets/Columbia-Titling-Regular.otf);
+          src: url(assets/Columbia%20Titling%20[TheFontsMaster.com].otf);
         }
         
 
@@ -700,11 +700,10 @@
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
-      white-space: pre;
-      width: 270.00px;
+      width: 272.00px;
     height: 82.00px;
     top: 383.24px;
-    right: 237.00px;
+    right: 236.00px;
 
 }
 
@@ -740,7 +739,6 @@
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
-      white-space: pre;
       width: 268.00px;
     height: 84.00px;
     left: 239.00px;
@@ -820,7 +818,6 @@
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
-      white-space: pre;
       width: 984.00px;
     height: 325.00px;
     top: 1098.00px;
@@ -899,7 +896,6 @@
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
-      white-space: pre;
       width: 719.00px;
     height: 300.00px;
     top: 3488.00px;
@@ -939,7 +935,6 @@
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
-      white-space: pre;
       width: 912.00px;
     height: 300.00px;
     left: 50%;
@@ -979,7 +974,6 @@
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
-      white-space: pre;
       width: 1204.00px;
     height: 112.00px;
     left: 206.00px;
@@ -987,10 +981,8 @@
 
 }
 
-.light .group {
-
-      display: block;
-      position: absolute;
+.light .johnWayneGacyAndHisJayceesGroup {
+    position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
@@ -1008,95 +1000,24 @@
       padding-right: 0.00px;
       padding-bottom: 0.00px;
       padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0.00px;
+      color: rgba(43, 46, 52, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: attributetext_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
-      background-color: transparent;
-      width: 306.87px;
+      white-space: pre;
+      width: 300.00px;
     height: 21.00px;
     left: 54.00px;
     top: 3215.40px;
-
-}
-
-.light .group .johnWayneGacyAndHisJay {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: left;
-      letter-spacing: 0.00px;
-      color: rgba(43, 46, 52, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 15.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: attributetext_regular, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 214.00px;
-    height: auto;
-    left: 0.00px;
-    top: 0.00px;
-    bottom: 0.00px;
-
-}
-
-.light .group .ceeGroup {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: left;
-      letter-spacing: 0.00px;
-      color: rgba(43, 46, 52, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 15.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: attributetext_regular, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 79.00px;
-    height: auto;
-    top: 0.00px;
-    right: 0.00px;
-    bottom: 0.00px;
 
 }
 
