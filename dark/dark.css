@@ -62,7 +62,6 @@
           src: url(assets/Pistilli-Roman.otf);
         }
         
-
       .dark {
 
       display: block;
@@ -2706,7 +2705,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/group66.png");
+      background-image: url("assets/gif.gif");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
