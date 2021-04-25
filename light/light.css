@@ -5,6 +5,10 @@
         width: 100%;
       }
 
+::selection {
+  background: #DEDED3;
+}
+
       body {
         font-family: 'Open Sans', serif;
         margin: 0;
