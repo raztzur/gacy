@@ -9,6 +9,8 @@
   color: white;
   background: #A5262C;
 }
+
+
       body {
         font-family: 'Open Sans', serif;
         margin: 0;
@@ -329,7 +331,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -348,7 +350,6 @@
       font-weight: 400;
     font-style: normal;
       font-family: zangezisans09trial_regular, Arial;
-      text-decoration: none;
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
@@ -370,7 +371,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -389,7 +390,6 @@
       font-weight: 400;
     font-style: normal;
       font-family: zangezisans09trial_regular, Arial;
-      text-decoration: none;
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
@@ -411,7 +411,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -430,7 +430,6 @@
       font-weight: 400;
     font-style: normal;
       font-family: zangezisans09trial_regular, Arial;
-      text-decoration: none;
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
@@ -441,6 +440,7 @@
     right: 582.00px;
 
 }
+
 
 .dark .path22 {
     position: absolute;
