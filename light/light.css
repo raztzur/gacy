@@ -562,7 +562,7 @@
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
-      margin-left: 0.00px;
+      margin-left: -56px;
       padding-top: 0.00px;
       padding-right: 0.00px;
       padding-bottom: 0.00px;
@@ -583,8 +583,8 @@
       white-space: pre;
       width: 112.00px;
     height: 22.00px;
+    left: 50%;
     top: 27.00px;
-    right: 780.00px;
 
 }
 
@@ -624,7 +624,7 @@
       width: 90.00px;
     height: 22.00px;
     top: 27.00px;
-    right: 576.00px;
+    right: 582.00px;
 
 }
 

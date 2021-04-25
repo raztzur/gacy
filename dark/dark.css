@@ -23,8 +23,8 @@
         }
         
         @font-face {
-          font-family: swearbannerdemo_boldcilati;
-          src: url(assets/SwearBannerDemo-BoldCilati.otf);
+          font-family: swearbannerdemo_bold;
+          src: url(assets/SwearBannerDemo-Bold.otf);
         }
         
         @font-face {
@@ -50,6 +50,11 @@
         @font-face {
           font-family: levitblended_bold;
           src: url(assets/Levit_Blended-Bold.otf);
+        }
+        
+        @font-face {
+          font-family: swearbannerdemo_boldcilati;
+          src: url(assets/SwearBannerDemo-BoldCilati.otf);
         }
         
         @font-face {
@@ -524,7 +529,7 @@
       font-size: 100.00px;
       font-weight: 700;
     font-style: normal;
-      font-family: swearbannerdemo_boldcilati, Arial;
+      font-family: swearbannerdemo_bold, Arial;
       text-decoration: none;
       box-shadow: none;
       overflow-x: unset;
@@ -534,6 +539,46 @@
     left: 0.00px;
     top: 23.50px;
 
+}
+
+.dark .group .earlysigns .earlysigns-0 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 100.00px;
+    font-family: swearbannerdemo_bold, Arial;
+    letter-spacing: -1.5;
+    text-decoration: none;
+}
+
+.dark .group .earlysigns .earlysigns-1 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 100.00px;
+    font-family: swearbannerdemo_bold, Arial;
+    letter-spacing: -0.5;
+    text-decoration: none;
+}
+
+.dark .group .earlysigns .earlysigns-3 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 100.00px;
+    font-family: swearbannerdemo_bold, Arial;
+    letter-spacing: -2;
+    text-decoration: none;
+}
+
+.dark .group .earlysigns .earlysigns-4 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 100.00px;
+    font-family: swearbannerdemo_bold, Arial;
+    letter-spacing: -0.5;
+    text-decoration: none;
 }
 
 .dark .group57 {
@@ -560,10 +605,10 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 92.00px;
-    height: 102.00px;
+      width: 97.00px;
+    height: 108.00px;
     left: 153.00px;
-    top: 1086.15px;
+    top: 1087.15px;
 
 }
 
@@ -592,7 +637,7 @@
       letter-spacing: 0.00px;
       color: transparent;
       -webkit-text-stroke: 1.00px rgba(255, 255, 255, 1);
-      font-size: 85.00px;
+      font-size: 90.00px;
       font-weight: 700;
     font-style: normal;
       font-family: zangezisans09trial_black, Arial;
@@ -604,9 +649,9 @@
       width: auto;
     height: auto;
     left: 0.00px;
-    top: 1.00px;
+    top: 4.00px;
     right: 0.00px;
-    bottom: -1.00px;
+    bottom: -4.00px;
 
 }
 
@@ -1984,7 +2029,7 @@
       width: 433.00px;
     height: 217.00px;
     left: 318.00px;
-    top: 3551.15px;
+    top: 3552.15px;
 
 }
 
@@ -2016,7 +2061,7 @@
       font-size: 100.00px;
       font-weight: 700;
     font-style: normal;
-      font-family: swearbannerdemo_boldcilati, Arial;
+      font-family: swearbannerdemo_bold, Arial;
       text-decoration: none;
       box-shadow: none;
       overflow-x: unset;
@@ -2035,6 +2080,16 @@
     font-weight: 700;
     font-style: normal;
     font-size: 100.00px;
+    font-family: swearbannerdemo_bold, Arial;
+    letter-spacing: -0.5;
+    text-decoration: none;
+}
+
+.dark .group58 .capturePrey .capturePrey-7 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 100.00px;
     font-family: swearbannerdemo_boldcilati, Arial;
     letter-spacing: -0.5;
     text-decoration: none;
@@ -2044,9 +2099,9 @@
     color: rgba(255, 255, 255, 1);
     font-weight: 400;
     font-style: normal;
-    font-size: 80.00px;
+    font-size: 77.00px;
     font-family: pistilli_regular, Arial;
-    letter-spacing: -0.4;
+    letter-spacing: -0.385;
     text-decoration: none;
 }
 
@@ -2055,7 +2110,7 @@
     font-weight: 700;
     font-style: normal;
     font-size: 100.00px;
-    font-family: swearbannerdemo_boldcilati, Arial;
+    font-family: swearbannerdemo_bold, Arial;
     letter-spacing: -0.5;
     text-decoration: none;
 }
@@ -2084,10 +2139,10 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 108.00px;
-    height: 102.00px;
+      width: 114.00px;
+    height: 108.00px;
     left: 318.00px;
-    top: 3475.15px;
+    top: 3477.15px;
 
 }
 
@@ -2116,7 +2171,7 @@
       letter-spacing: 0.00px;
       color: transparent;
       -webkit-text-stroke: 1.00px rgba(255, 255, 255, 1);
-      font-size: 85.00px;
+      font-size: 90.00px;
       font-weight: 700;
     font-style: normal;
       font-family: zangezisans09trial_black, Arial;
@@ -2128,9 +2183,9 @@
       width: auto;
     height: auto;
     left: 0.00px;
-    top: 1.00px;
+    top: 4.00px;
     right: 0.00px;
-    bottom: -1.00px;
+    bottom: -4.00px;
 
 }
 
@@ -2329,7 +2384,7 @@
       font-size: 100.00px;
       font-weight: 700;
     font-style: normal;
-      font-family: swearbannerdemo_boldcilati, Arial;
+      font-family: swearbannerdemo_bold, Arial;
       text-decoration: none;
       box-shadow: none;
       overflow-x: unset;
@@ -2367,10 +2422,10 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 108.00px;
-    height: 102.00px;
+      width: 114.00px;
+    height: 108.00px;
     left: 186.00px;
-    top: 6756.15px;
+    top: 6749.15px;
 
 }
 
@@ -2399,7 +2454,7 @@
       letter-spacing: 0.00px;
       color: transparent;
       -webkit-text-stroke: 1.00px rgba(255, 255, 255, 1);
-      font-size: 85.00px;
+      font-size: 90.00px;
       font-weight: 700;
     font-style: normal;
       font-family: zangezisans09trial_black, Arial;
@@ -2411,9 +2466,9 @@
       width: auto;
     height: auto;
     left: 0.00px;
-    top: 1.00px;
+    top: 4.00px;
     right: 0.00px;
-    bottom: -1.00px;
+    bottom: -4.00px;
 
 }
 
